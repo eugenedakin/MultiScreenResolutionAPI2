@@ -1,2 +1,6 @@
 # MultiScreenResolutionAPI2
 This determines the screen size (width and height) of a Xojo program that moves a window on a screen
+
+When running a Windows 10 program with Xojo 2020 r1 which uses the new API2 code, determining the screen resolution can be difficult. This example uses Windows API declares and Xojo code to retrieve the screen size that the Window1 application is running. 
+
+This was created on Windows 10, Xojo 2020 r1.
