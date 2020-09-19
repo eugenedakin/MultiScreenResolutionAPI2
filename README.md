@@ -10,3 +10,5 @@ Attached is a screen grab that shows the Width and Height of two different scree
 ![](https://github.com/eugenedakin/MultiScreenResolutionAPI2/blob/master/ScreenResolutionAPI2-1.png)
 
 A brief writeup of the program can be viewed at: https://scispec.ca/index.php/blog/56-dynamic-multiple-screen-size-resolution
+
+An older version of this example has been written in Xojo 2015 r1, and has the filename "DPIResolutionV2-2015r1.xojo_binary_project".
